@@ -7,4 +7,4 @@ And in ur projects by call a AES256.encrypt/decrypt.
 
 # Contact
 tg: hash404\
-ds: hash.java#6336
+ds: hash#6336
